@@ -45,12 +45,12 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 
 ## 🛠️ Cara Menjalankan Proyek
 
-1️⃣ **Pastikan Python Terinstal**
-```bash
-python --version
+1. **Pastikan Python Terinstal**
+   Periksa versi Python Anda di terminal:
+   ```bash
+   python --version```
 
-## 🛠️ Cara Menjalankan Proyek
-
-2️⃣ **Melatih Model (Opsional)**
-```bash
-python model_trainer.py
+2. **Install Library yang Dibutuhkan**
+   Periksa versi Python Anda di terminal:
+   ```bash
+   pip install flask flask-cors pandas scikit-learn joblib```
