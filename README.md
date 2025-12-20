@@ -52,16 +52,20 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
    python --version
    
 2. **Clone Repository Proyek**
+
+   Dapatkan file proyek dari GitHub risti-sudo:
    ```bash
    git clone https://github.com/ristianawati-sudo/smarthomesuas.gitbash
    ```
    Atau klik tombol Code > Download ZIP dan ekstrak filenya ke folder komputer Anda.
    
 4. **Install Library yang Dibutuhkan**
+
+   Buka terminal/CMD di dalam folder proyek tersebut, lalu instal menggunakan file requirements.txt:
    ```bash
    pip install -r requirements.txt
 
-5. **Jalankan Server Backend**
+6. **Jalankan Server Backend**
    ```bash
    python server.py
    ```
@@ -69,7 +73,7 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
 
    Penting: Jangan tutup jendela terminal ini agar website tetap terhubung dengan AI.
 
-6. **Jalankan Dashboard Website**
+7. **Jalankan Dashboard Website**
 
    a. Buka File Explorer dan masuk ke folder proyek.
    
@@ -78,4 +82,18 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
    c. Klik Kanan pada file tersebut > Open With > Google Chrome (atau browser modern lainnya).
    
    d. Masukkan data sensor pada form, lalu klik tombol "Prediksi Suhu Ruangan".
+
+📂 **Struktur File Utama**
+
+Agar sistem berjalan lancar, pastikan file berikut berada dalam satu folder:
+
+1. server.py: Script Backend Flask.
+
+2. index.html: Antarmuka Dashboard (Frontend).
+
+3. random_forest_model.pkl: Model AI yang sudah dilatih.
+
+4. scaler.pkl: File normalisasi data.
+
+5. requirements.txt: Daftar library pendukung.
    
