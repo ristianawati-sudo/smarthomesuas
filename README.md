@@ -44,7 +44,7 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ---
 
 ## 🛠️ Cara Menjalankan Proyek
-
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi Prediksi Suhu Ruangan Berbasis AI pada komputer lokal.
 1. **Pastikan Python Terinstal**
    Periksa versi Python Anda di terminal:
    ```bash
@@ -59,7 +59,6 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
    python model_trainer.py
 
 4. **Menjalankan Server Backend**
-   Periksa versi Python Anda di terminal:
    ```bash
    python server.py    
 
