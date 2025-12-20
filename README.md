@@ -4,7 +4,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-https://github.com/user-attachments/assets/33c73e7a-4cda-4f49-9768-7c9d9a89d7d4
+![Github-Prediksi-Suhu-Ruang](https://github.com/user-attachments/assets/4da6ef52-0315-4057-a923-cc5681d32ba9)
 
 ## 📝 Deskripsi Proyek
 Proyek ini merupakan implementasi Machine Learning yang bertujuan untuk memprediksi suhu ruangan secara cerdas (Smart-Temp Prediction). Di tengah meningkatnya kebutuhan akan efisiensi energi, sistem ini dirancang untuk memberikan estimasi suhu ruangan yang paling nyaman berdasarkan kondisi lingkungan sekitar.
