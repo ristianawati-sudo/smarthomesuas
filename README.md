@@ -44,13 +44,17 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ---
 
 ## 🛠️ Cara Menjalankan Proyek
-Ikuti langkah-langkah berikut untuk menjalankan aplikasi Prediksi Suhu Ruangan Berbasis AI pada komputer lokal.
+Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Berbasis AI pada komputer lokal.
 1. **Pastikan Python Terinstal**
    
    Periksa versi Python Anda di terminal:
    ```bash
    python --version
-
+   
+2. **Clone Repository Proyek**
+   ```bash
+   git clone https://github.com/ristianawati-sudo/smarthomesuas.git
+   
 3. **Install Library yang Dibutuhkan**
    ```bash
    pip install flask flask-cors pandas scikit-learn joblib
