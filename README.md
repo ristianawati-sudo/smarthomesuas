@@ -46,9 +46,22 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ## 🛠️ Cara Menjalankan Proyek
 
 1. **Pastikan Python Terinstal**
+   Periksa versi Python Anda di terminal:
    ```bash
    python --version
 
 2. **Install Library yang Dibutuhkan**
    ```bash
    pip install flask flask-cors pandas scikit-learn joblib
+
+3. **Melatih Model (Optional)**
+   ```bash
+   python model_trainer.py
+
+4. **Menjalankan Server Backend**
+   Periksa versi Python Anda di terminal:
+   ```bash
+   python server.py    
+
+5. **Menjalankan Antarmuka (Fronted)**
+   Buka file index.html langsung melalui browser (Chrome/Edge) untuk mulai mencoba prediksi suhu.
