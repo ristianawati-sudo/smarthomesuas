@@ -47,8 +47,8 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 
 1. **Pastikan Python Terinstal**
    ```bash
-   python --version```
+   python --version
 
 2. **Install Library yang Dibutuhkan**
    ```bash
-   pip install flask flask-cors pandas scikit-learn joblib```
+   pip install flask flask-cors pandas scikit-learn joblib
