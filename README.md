@@ -43,26 +43,21 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 
 ---
 
-🛠️ Cara Menjalankan Proyek
+## 📊 Cara Menjalankan Proyek
 1️⃣ Pastikan Python Terinstal Periksa apakah Python sudah ada di sistem Anda dengan mengetik:
-
 python --version
 
 2️⃣ Clone Repository Proyek Salin repositori ini ke komputer lokal Anda:
-
 git clone https://github.com/username/nama-repo-kamu.git
 cd nama-folder-proyek
 
 3️⃣ Instal Library yang Dibutuhkan Instal semua dependensi agar model dan API bisa berjalan:
-
 pip install flask flask-cors pandas scikit-learn joblib
 
 4️⃣ Melatih Model AI (Opsional) Jalankan perintah ini jika ingin membuat file model .pkl baru:
-
 python model_trainer.py
 
 5️⃣ Jalankan Aplikasi (Backend) Aktifkan server Flask untuk memulai layanan prediksi:
-
 python app.py
 
 6️⃣ Buka Antarmuka (Frontend) Klik dua kali pada file index.html atau buka melalui browser (Chrome/Edge) untuk mulai menggunakan aplikasi.
