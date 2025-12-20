@@ -44,5 +44,7 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ---
 
 ## 🛠️ Cara Menjalankan Proyek
-1️⃣ Pastikan Python Terinstal
+
+1️⃣ **Pastikan Python Terinstal**
+```bash
 python --version
