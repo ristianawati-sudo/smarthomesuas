@@ -61,7 +61,7 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
    ```
    Atau klik tombol Code > Download ZIP dan ekstrak filenya ke folder komputer Anda.
    
-4. **Install Library yang Dibutuhkan**
+4. **Instal Library yang Dibutuhkan**
 
    Buka terminal/CMD di dalam folder proyek tersebut, lalu instal menggunakan file requirements.txt:
    ```bash
