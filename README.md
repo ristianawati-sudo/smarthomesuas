@@ -6,13 +6,6 @@
 
 ## 📝 Deskripsi Proyek
 Proyek ini merupakan implementasi Machine Learning yang bertujuan untuk memprediksi suhu ruangan secara cerdas (Smart-Temp Prediction). Di tengah meningkatnya kebutuhan akan efisiensi energi, sistem ini dirancang untuk memberikan estimasi suhu ruangan yang paling nyaman berdasarkan kondisi lingkungan sekitar.
-Masalah yang Diselesaikan:
-a. Efisiensi Energi: Mengurangi penggunaan AC yang berlebihan dengan memprediksi kebutuhan suhu yang tepat.
-b. Kenyamanan Otomatis: Memberikan data dasar bagi sistem Smart Home untuk mengatur suhu ruangan secara otomatis tanpa campur tangan manusia.
-Teknologi & Algoritma:
-a. Algoritma: Menggunakan Random Forest Regressor, sebuah metode Ensemble Learning yang sangat kuat untuk menangani data yang kompleks dan memberikan hasil prediksi yang stabil.
-b. Backend: Menggunakan Flask (Python) sebagai API untuk menjembatani model cerdas dengan antarmuka pengguna.
-c. Frontend: Dibangun dengan HTML5, CSS3, dan JavaScript agar sistem dapat diakses melalui browser secara interaktif.
 
 Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kuliah Pengantar Kecerdasan Buatan dengan menerapkan standar pengembangan perangkat lunak modern. Seluruh proses kolaborasi tim dikelola melalui platform GitHub, memanfaatkan fitur branching, konsistensi riwayat commit, serta mekanisme pull request untuk memastikan integrasi kode yang bersih dan terdokumentasi dengan baik.
 
