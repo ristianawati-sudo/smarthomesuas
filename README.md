@@ -46,11 +46,9 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ## 🛠️ Cara Menjalankan Proyek
 
 1. **Pastikan Python Terinstal**
-   Periksa versi Python Anda di terminal:
    ```bash
    python --version```
 
 2. **Install Library yang Dibutuhkan**
-   Periksa versi Python Anda di terminal:
    ```bash
    pip install flask flask-cors pandas scikit-learn joblib```
