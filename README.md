@@ -52,7 +52,7 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
    python --version
    
 2. **Clone Repository Proyek**
-```bash
+   ```bash
    git clone https://github.com/ristianawati-sudo/smarthomesuas.gitbash
    
    Atau klik tombol Code > Download ZIP dan ekstrak filenya ke folder komputer Anda.
