@@ -43,19 +43,18 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 
 ---
 
-## 🛠️ Cara Menjalankan Proyek
+### 🛠️ Cara Menjalankan Proyek
 
-### 1. Persyaratan Sistem
-Pastikan Python sudah terinstal di komputer Anda. Instal semua library yang dibutuhkan dengan menjalankan perintah berikut di terminal:
-pip install flask flask-cors pandas scikit-learn joblib
-### 2. Melatih Model (Opsional)
-Jika Anda ingin melatih ulang model dengan data terbaru, jalankan script trainer:
-python model_trainer.py
-Langkah ini akan memperbarui file random_forest_model.pkl dan scaler.pkl.
-### 3. Menjalankan Server API (Backend)
-Jalankan server Flask agar sistem siap menerima permintaan prediksi:
+**1. Pastikan Python Terinstal**
+```bash
+python --version
+
+git clone [https://github.com/username/repository-kamu.git](https://github.com/username/repository-kamu.git)
+cd nama-folder-kamu
+
+git clone [https://github.com/username/repository-kamu.git](https://github.com/username/repository-kamu.git)
+cd nama-folder-kamu
+
+pip install -r requirements.txt
+
 python app.py
-Pastikan terminal menampilkan status Running on http://127.0.0.1:5000.
-### 3. Mengakses Antarmuka (Frontend)
-Buka file index.html menggunakan browser (Chrome/Edge).
-Masukkan data parameter suhu dan klik tombol Prediksi.
