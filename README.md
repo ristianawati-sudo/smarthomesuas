@@ -54,7 +54,7 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
 2. **Clone Repository Proyek**
    ```bash
    git clone https://github.com/ristianawati-sudo/smarthomesuas.git
-
+   
    Atau klik tombol Code > Download ZIP dan ekstrak filenya ke folder komputer Anda.
    
 3. **Install Library yang Dibutuhkan**
@@ -65,11 +65,13 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
    ```bash
    python server.py
 
+   
    Pastikan terminal menampilkan pesan: --- SERVER SMART HOME AI AKTIF ---.
 
    Penting: Jangan tutup jendela terminal ini agar website tetap terhubung dengan AI.
 
 5. **Jalankan Dashboard Website**
+
    a. Buka File Explorer dan masuk ke folder proyek.
    b. Temukan file index.html.
    c. Klik Kanan pada file tersebut > Open With > Google Chrome (atau browser modern lainnya).
