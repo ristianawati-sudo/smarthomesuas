@@ -65,7 +65,7 @@ Ikuti langkah-langkah berikut untuk menjalankan website Prediksi Suhu Ruangan Be
 
 5. **Menjalankan Server Backend**
    ```bash
-   python server.py    
+   python app.py    
 
 6. **Menjalankan Antarmuka (Frontend)**
    
