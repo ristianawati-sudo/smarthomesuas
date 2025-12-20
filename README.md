@@ -63,4 +63,4 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi Prediksi Suhu Ruangan B
    python server.py    
 
 5. **Menjalankan Antarmuka (Fronted)**
-   Buka file index.html langsung melalui browser (Chrome/Edge) untuk mulai mencoba prediksi suhu.
+Buka file index.html langsung melalui browser (Chrome/Edge) untuk mulai mencoba prediksi suhu.
