@@ -48,3 +48,9 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 1️⃣ **Pastikan Python Terinstal**
 ```bash
 python --version
+
+## 🛠️ Cara Menjalankan Proyek
+
+2️⃣ **Melatih Model (Opsional)**
+```bash
+python model_trainer.py
