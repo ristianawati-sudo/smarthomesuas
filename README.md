@@ -16,7 +16,7 @@ Proyek ini disusun untuk memenuhi kriteria Ujian Akhir Semester (UAS) mata kulia
 ## 👥 Nama Anggota Kelompok & Bukti Kolaborasi
 | Nama | NIM | Branch | Jobdesk |
 | :--- | :--- | :--- | :--- |
-| Ristianawati | M0125025 | **feature-modeling** | Membangun model Machine Learning seperti model-trainer.py, dataset yang digunakan, requirements.txt, pembuatan README |
+| Ristianawati | M0125025 | **feature-modeling** | Membangun model Machine Learning seperti model-trainer.py, dataset yang digunakan, requirements.txt |
 | Devi Aprilia Mulyani | M0125011 | **feature-backend** | Pembuatan API agar model bisa diakses oleh web seperti server.py, index.html, javascript |
 | Remalya Rafa | M0125024 | **feature-docs** | Dokumentasi & pembuatan README |
 
